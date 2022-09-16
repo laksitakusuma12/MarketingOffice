@@ -1,0 +1,14 @@
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\bin\Debug\netcoreapp3.1\OfficeProject.exe
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\bin\Debug\netcoreapp3.1\OfficeProject.deps.json
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\bin\Debug\netcoreapp3.1\OfficeProject.runtimeconfig.json
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\bin\Debug\netcoreapp3.1\OfficeProject.runtimeconfig.dev.json
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\bin\Debug\netcoreapp3.1\OfficeProject.dll
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\bin\Debug\netcoreapp3.1\OfficeProject.pdb
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\obj\Debug\netcoreapp3.1\OfficeProject.csproj.AssemblyReference.cache
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\obj\Debug\netcoreapp3.1\OfficeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\obj\Debug\netcoreapp3.1\OfficeProject.AssemblyInfoInputs.cache
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\obj\Debug\netcoreapp3.1\OfficeProject.AssemblyInfo.cs
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\obj\Debug\netcoreapp3.1\OfficeProject.csproj.CoreCompileInputs.cache
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\obj\Debug\netcoreapp3.1\OfficeProject.dll
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\obj\Debug\netcoreapp3.1\OfficeProject.pdb
+D:\course\Metrodata\Pertemuan_8\OfficeProject\OfficeProject\obj\Debug\netcoreapp3.1\OfficeProject.genruntimeconfig.cache
